@@ -1,0 +1,26 @@
+.container{
+    width: 350px;
+    height: 200px;
+    background: #9ca6d6;
+    margin-left: 600px;
+    padding: 20px;
+    border-radius: 20px;
+
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+button{
+    width: 100px;
+    height: 40px;
+    font-size: medium;
+    font-weight: 400;
+    border-radius: 12px;
+    background: #e2b3d2;
+}
+.butt{
+    display: flex;
+    justify-content: space-between;
+}
